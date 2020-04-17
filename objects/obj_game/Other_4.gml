@@ -1,0 +1,1 @@
+effect_create_above(ef_firework, mouse_x, mouse_y, 2, c_yellow);
