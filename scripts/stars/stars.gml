@@ -19,4 +19,4 @@ repeat(10)
 randomize();
 audio_play_sound(choose(snd_yes1, snd_yes2, snd_aha, snd_oh_yeah), 50, false);
 
-effect_create_above(ef_firework, 128+96, room_height-64, 1, c_yellow);
+effect_create_above(ef_firework, 128+32, room_height-64, 1, c_yellow);

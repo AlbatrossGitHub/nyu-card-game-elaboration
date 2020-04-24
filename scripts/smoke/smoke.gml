@@ -13,4 +13,4 @@ with(obj_card){
 randomize();
 audio_play_sound(choose(snd_ugh, snd_shoot), 50, false);
 
-effect_create_above(ef_smoke, 128, 64, 1, c_white);
+effect_create_above(ef_smoke, 128+32, 120, 1, c_white);
